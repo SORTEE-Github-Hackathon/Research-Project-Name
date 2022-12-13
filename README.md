@@ -1,4 +1,4 @@
-# Research Project: Name
+# Research Project: Chosen Name
 
 Description: This repository contains data and code for this research project.
 
