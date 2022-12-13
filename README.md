@@ -1,2 +1,5 @@
-# Research-Project-Name
-This repository contains data and code for this dummy research project.
+# Research Project: Name
+
+Description: This repository contains data and code for this research project.
+
+All rights reserved.
